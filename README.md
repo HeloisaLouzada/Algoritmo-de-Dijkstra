@@ -1,1 +1,1 @@
-É um algoritmo baseado em <strong>grafos</strong> que calcula a menor distância a ser percorrida.
+É um algoritmo baseado em grafos que calcula a <strong>menor distância</strong> a ser percorrida.
